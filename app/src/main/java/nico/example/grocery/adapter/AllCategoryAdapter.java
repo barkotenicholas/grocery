@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.grocery.R;
+import nico.example.grocery.R;
 import nico.example.grocery.model.AllCategoryModel;
 
 import java.util.List;

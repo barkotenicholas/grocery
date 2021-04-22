@@ -13,7 +13,7 @@ import android.util.TypedValue;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.example.grocery.R;
+
 
 import nico.example.grocery.adapter.AllCategoryAdapter;
 import nico.example.grocery.model.AllCategoryModel;

@@ -10,7 +10,8 @@ import androidx.annotation.NonNull;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.RecyclerView;
 import nico.example.grocery.ProductDetails;
-import com.example.grocery.R;
+
+import nico.example.grocery.R;
 import nico.example.grocery.model.RecentlyViewed;
 
 import java.util.List;

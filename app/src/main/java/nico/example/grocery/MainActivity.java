@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.example.grocery.R;
+
 
 import nico.example.grocery.adapter.CategoryAdapter;
 import nico.example.grocery.adapter.DiscountedProductAdapter;

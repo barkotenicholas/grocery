@@ -6,7 +6,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
-import com.example.grocery.R;
+
+import nico.example.grocery.R;
 import nico.example.grocery.model.Category;
 import java.util.List;
 

@@ -12,7 +12,7 @@ import android.widget.Toast;
 
 import com.anjlab.android.iab.v3.BillingProcessor;
 import com.anjlab.android.iab.v3.TransactionDetails;
-import com.example.grocery.R;
+
 
 public class ProductDetails extends AppCompatActivity {
     ImageView imageViewProduct, imageViewBack;
