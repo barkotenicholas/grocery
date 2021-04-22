@@ -1,4 +1,4 @@
-package com.example.grocery;
+package nico.example.grocery;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.DefaultItemAnimator;
@@ -13,8 +13,10 @@ import android.util.TypedValue;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.example.grocery.adapter.AllCategoryAdapter;
-import com.example.grocery.model.AllCategoryModel;
+import com.example.grocery.R;
+
+import nico.example.grocery.adapter.AllCategoryAdapter;
+import nico.example.grocery.model.AllCategoryModel;
 
 import java.util.ArrayList;
 import java.util.List;

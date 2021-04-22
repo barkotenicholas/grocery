@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ProductDetails">
+    tools:context="nico.example.grocery.ProductDetails">
 
     <ImageView
         android:id="@+id/imgBack"
@@ -98,7 +98,7 @@
         android:layout_marginEnd="8dp"
         android:background="@drawable/buy_now_bg"
         android:fontFamily="@font/open_sans"
-        android:text="Buy Now"
+        android:text="Subscribe"
         android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold"

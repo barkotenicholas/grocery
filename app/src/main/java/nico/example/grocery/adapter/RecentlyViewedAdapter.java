@@ -1,4 +1,4 @@
-package com.example.grocery.adapter;
+package nico.example.grocery.adapter;
 import android.content.Context;
 import android.content.Intent;
 import android.view.LayoutInflater;
@@ -9,9 +9,9 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.RecyclerView;
-import com.example.grocery.ProductDetails;
+import nico.example.grocery.ProductDetails;
 import com.example.grocery.R;
-import com.example.grocery.model.RecentlyViewed;
+import nico.example.grocery.model.RecentlyViewed;
 
 import java.util.List;
 

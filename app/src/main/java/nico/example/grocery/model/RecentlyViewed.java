@@ -1,4 +1,4 @@
-package com.example.grocery.model;
+package nico.example.grocery.model;
 
 public class RecentlyViewed {
     String name;

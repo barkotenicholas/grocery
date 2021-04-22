@@ -1,4 +1,4 @@
-package com.example.grocery.adapter;
+package nico.example.grocery.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.grocery.R;
-import com.example.grocery.model.DiscountedProducts;
+import nico.example.grocery.model.DiscountedProducts;
 
 import java.util.List;
 

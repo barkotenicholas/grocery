@@ -1,4 +1,4 @@
-package com.example.grocery.model;
+package nico.example.grocery.model;
 
 public class Category {
     Integer id;

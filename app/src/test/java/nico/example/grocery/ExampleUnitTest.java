@@ -1,4 +1,4 @@
-package com.example.grocery;
+package nico.example.grocery;
 
 import org.junit.Test;
 
