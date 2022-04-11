@@ -73,7 +73,7 @@ public class ProductDetails extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Toast.makeText(ProductDetails.this,"Clicked",Toast.LENGTH_SHORT).show();
-                billingProcessor.subscribe(ProductDetails.this,"acup");
+                billingProcessor.purchase(ProductDetails.this,"A");
 
             }
         });
